@@ -1,4 +1,4 @@
-# Project 3: From Homeland to Homeland
+<h1 align-text="center">From Homeland to Homeland<h1>
 ### Overview  
 * Intro  
 * Figma  
