@@ -5,3 +5,16 @@
   text-align: center;
   margin: 92px auto 24px;
 }
+
+@media screen and (max-width: 768px) {
+  .footer__copyright {
+    margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    margin-top: 64px;
+    line-height: 14px;
+  }
+}
