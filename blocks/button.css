@@ -1,0 +1,32 @@
+.button {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  background-color: #0278fe;
+  border-radius: 3px;
+  padding: 13px 20px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21.78px;
+  transition: background-color 0.5s;
+  cursor: pointer;
+  box-sizing: border-box;
+  align-self: center;
+}
+
+.button_place {
+  max-width: 248px;
+  max-height: 48px;
+}
+
+.button_place_cover {
+  max-width: 137px;
+  max-height: 48px;
+  z-index: 2;
+  margin: 32px 0 0;
+}
+
+.button:hover {
+  background-color: #0063d2;
+}

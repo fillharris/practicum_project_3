@@ -1,0 +1,9 @@
+.places {
+  margin: 92px calc((100% - 984px) / 2);
+}
+
+.places__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
