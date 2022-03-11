@@ -1,19 +1,19 @@
-# Project 3: From Homeland to Homeland
-### Overview  
-* Intro  
-* Figma  
-* Images  
+<div align="center"><img src="./images/logo.svg"></div>
+
+<h1 align="center">From Homeland to Homeland</h1>
   
-**Intro**    
-  
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)  
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!  
+### Overview
+
+This is the third project of the Software Engineer bootcamp from Practicum by Yandex. The project showcases the hometowns of some of Practicum's employees. The project was built from a design that was provided in Figma and can be viewed [here](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1). The focus of the project was to create a responsive website using media queries, flexbox, and grid while implementing the BEM methodology in naming and file structure.
+
+### Technologies
+
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<br>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<br>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+
+### Preview
+
+### Live Project
