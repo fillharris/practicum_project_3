@@ -45,6 +45,13 @@
   grid-area: image;
 }
 
+.place__image {
+  width: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
 .place__description {
   grid-area: description;
 }
