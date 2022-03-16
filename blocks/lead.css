@@ -22,14 +22,34 @@
   margin: auto;
 }
 
+@media screen and (max-width: 768px) {
+  .lead__title {
+    margin: 90px 24px 32px;
+  }
+  .lead__subtitle {
+    max-width: calc(100% - (24px * 2));
+    margin-bottom: 36px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .lead__title {
+    font-size: 50px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .lead__title {
-    max-width: 288px;
-    margin: 50.15px auto;
+    font-size: 40px;
+    line-height: 44px;
+    margin-top: 50px;
+    margin-bottom: 16px;
   }
 
   .lead__subtitle {
-    max-width: 288px;
-    margin: 16px auto 40px;
+    max-width: calc(100% - (16px * 2));
+    font-size: 16px;
+    line-height: 1.25;
+    margin-bottom: 40px;
   }
 }
