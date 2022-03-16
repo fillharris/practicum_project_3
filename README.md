@@ -14,6 +14,6 @@ This is the third project of the Software Engineer bootcamp from Practicum by Ya
 <br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 
-### Preview
-
 ### Live Project
+
+:airplane: [Homeland to Homeland](https://fillharris.github.io/web_project_3/)
