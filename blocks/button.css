@@ -18,11 +18,11 @@
   max-height: 48px;
 }
 
-.button_place {
+.button-place {
   max-width: 248px;
 }
 
-.button_place_cover {
+.button-place_cover {
   max-width: 137px;
   z-index: 2;
   margin: 32px 0 0;
@@ -34,16 +34,17 @@
 }
 
 @media screen and (max-width: 560px) {
-  .button_place_cover {
+  .button-place_cover {
     margin-top: 24px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .button_place {
+  .button-place {
     max-width: 288px;
+    margin: 0 auto;
   }
-  .button_place_cover {
+  .button-place_cover {
     margin-top: 16px;
   }
 }
