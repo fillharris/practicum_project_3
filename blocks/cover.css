@@ -55,4 +55,22 @@
     max-width: 220px;
     margin: 0 auto;
   }
+
+  .cover__title {
+    font-size: 32px;
+    line-height: 35px;
+  }
+
+  .cover {
+    margin-top: 64px;
+    max-height: 254px;
+  }
+
+  .cover__overlay {
+    max-height: 254px;
+  }
+
+  .cover:hover .cover__overlay {
+    max-height: 254px;
+  }
 }
