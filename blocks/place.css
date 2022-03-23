@@ -69,6 +69,10 @@
   margin-bottom: 0;
 }
 
+.place__button {
+  max-width: 248px;
+}
+
 @media screen and (max-width: 768px) {
   .place {
     margin-top: 89px;
@@ -130,5 +134,10 @@
 
   .place:first-of-type {
     margin-top: 62px;
+  }
+
+  .place__button {
+    max-width: 288px;
+    margin: 0 auto;
   }
 }

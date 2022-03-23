@@ -40,6 +40,13 @@
   opacity: 0.8;
 }
 
+.cover__button {
+  max-width: 137px;
+  z-index: 2;
+  margin: 32px 0 0;
+  align-self: center;
+}
+
 @media screen and (max-width: 560px) {
   .cover__paragraph {
     font-size: 16px;
@@ -47,6 +54,10 @@
     max-width: 250px;
     margin: 0 auto;
   }
+}
+
+.cover__button {
+  margin-top: 24px;
 }
 
 @media screen and (max-width: 320px) {
@@ -67,5 +78,9 @@
     min-height: 254px;
     margin-top: 64px;
     margin-bottom: 0;
+  }
+
+  .cover__button {
+    margin-top: 16px;
   }
 }
