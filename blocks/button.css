@@ -22,7 +22,7 @@
   max-width: 248px;
 }
 
-.button-place_cover {
+.button-cover {
   max-width: 137px;
   z-index: 2;
   margin: 32px 0 0;
@@ -34,7 +34,7 @@
 }
 
 @media screen and (max-width: 560px) {
-  .button-place_cover {
+  .button-cover {
     margin-top: 24px;
   }
 }
@@ -44,7 +44,7 @@
     max-width: 288px;
     margin: 0 auto;
   }
-  .button-place_cover {
+  .button-cover {
     margin-top: 16px;
   }
 }
