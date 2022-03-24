@@ -32,7 +32,7 @@
   letter-spacing: 1.44px;
   color: #aaaaaa;
   margin: 0 0 8px;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 .place__person-info {
@@ -75,7 +75,7 @@
 
 @media screen and (max-width: 768px) {
   .place {
-    margin-top: 89px;
+    margin-top: 72px;
     gap: 46px 28px;
   }
   .place__media-container {
@@ -137,7 +137,9 @@
   }
 
   .place__button {
-    max-width: 288px;
-    margin: 0 auto;
+    margin-bottom: 0;
+    padding-left: 18px;
+    padding-right: 18px;
+    align-self: center;
   }
 }
