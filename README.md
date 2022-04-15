@@ -16,4 +16,4 @@ This is the third project of the Software Engineer bootcamp from Practicum by Ya
 
 ### Live Project
 
-:airplane: [Homeland to Homeland](https://fillharris.github.io/web_project_3/)
+:airplane: [Homeland to Homeland](https://fillharris.github.io/practicum_project_3/)
